@@ -44,7 +44,7 @@ Content Summarizer is a web application built with HTML, CSS, and React that pro
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Khizarshah01/contentSummarizer.git
+   git clone https://github.com/ShashwatAgrawal20/summarizerFront.git
 
 2. **Go to the project directory:**
 

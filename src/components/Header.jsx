@@ -63,7 +63,7 @@ function Header() {
           src={forkLogo}
           alt="fork"
           onClick={() =>
-            window.open("https://github.com/Khizarshah01/contentSummarizer/fork")
+            window.open("https://github.com/ShashwatAgrawal20/summarizerFront/fork")
           }
         />
         <img
@@ -71,7 +71,7 @@ function Header() {
           src={githubLogo}
           alt="github"
           onClick={() =>
-            window.open("https://github.com/Khizarshah01/contentSummarizer")
+            window.open("https://github.com/ShashwatAgrawal20/summarizerFront")
           }
         />
       </div>

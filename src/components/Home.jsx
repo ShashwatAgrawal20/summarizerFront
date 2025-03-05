@@ -68,7 +68,7 @@ function Home() {
             })
             .catch((error) => {
                 console.error("Error:", error.message);
-                setTypingText(error.message);
+                setTypingText(`Error: ${error.message}`);
                 setSummarizedText(`Error: ${error.message}`);
             })
             .finally(() => {
